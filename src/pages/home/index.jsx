@@ -155,7 +155,7 @@ const Home = () => {
         <Box sx={{ mt: 4 }}>
           <CommonHeading
             heading="Terms And Conditions"
-            para="These Terms shall be governed and construed in accordance with the laws of the state where Angel Wishes Memory Keeper is headquartered, without regard to its conflict of law provisions."
+            para="These Terms shall be governed and construed in accordance with the laws of the state where Angel Wishes Memory Keeper is headquartered, without regard to its conflict of law provisions.."
             headStyle={{ color: colors.primary, pt: 2, pl: { xs: 1.5 } }}
             backgroundColor="#FBFBFB"
             paraStyle={{ py: 3, pl: { xs: 1.5 } }}
